@@ -6,7 +6,11 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
-- Meta Discovery: Learning to Discover Novel Classes given Very Limited Data [[paper]](https://openreview.net/forum?id=MEpKGLsY8f)
+- None yet.
+
+
+## 2022
+- Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f)
 
 
 ## 2021
