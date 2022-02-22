@@ -27,13 +27,13 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2019
-- Learning to Discover Novel Visual Categories via Deep Transfer Clustering (**ICCV** 2019) [[paper]](https://arxiv.org/abs/1908.09884) [[code]](https://github.com/k-han/DTC)
-- Multi-class classification without multi-class labels (**ICLR** 2019) [[paper]](https://openreview.net/forum?id=SJzR2iRcK7) [[code]](https://github.com/GT-RIPL/L2C)
+- Learning to discover novel visual categories via deep transfer clustering (**ICCV** 2019) [[paper]](https://arxiv.org/abs/1908.09884) [[code]](https://github.com/k-han/DTC) (**DTC**)
+- Multi-class classification without multi-class labels (**ICLR** 2019) [[paper]](https://openreview.net/forum?id=SJzR2iRcK7) [[code]](https://github.com/GT-RIPL/L2C) (**MCL**)
 
 
 ## 2018
 
-- Learning to cluster in order to transfer across domains and tasks (**ICLR** 2018) [[paper]](https://openreview.net/pdf?id=ByRWCqvT-) [[code]](https://github.com/GT-RIPL/L2C)
+- Learning to cluster in order to transfer across domains and tasks (**ICLR** 2018) [[paper]](https://openreview.net/pdf?id=ByRWCqvT-) [[code]](https://github.com/GT-RIPL/L2C) (**KCL**)
 
 
 ## 2016
