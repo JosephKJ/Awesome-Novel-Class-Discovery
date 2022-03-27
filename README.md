@@ -11,6 +11,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## 2022
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
+- Self-Labeling Framework for Novel Category Discovery over Domains (**AAAI** 2022) [[paper]](https://aaai-2022.virtualchair.net/poster_aaai1466)
 
 
 ## 2021
