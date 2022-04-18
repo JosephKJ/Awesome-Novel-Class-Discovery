@@ -6,6 +6,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2022
+- Generalized Category Discovery (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery)
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f)
 
 
