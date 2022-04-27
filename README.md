@@ -14,6 +14,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Self-Labeling Framework for Novel Category Discovery over Domains (**AAAI** 2022) [[paper]](https://aaai-2022.virtualchair.net/poster_aaai1466)
 - Towards Open-Set Object Detection and Discovery (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.05604)
 - Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2112.01900) [[code]](https://github.com/HeliosZhao/NCDSS)
+- Generalized Category Discovery (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery)
+- Spacing Loss for Discovering Novel Categories (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.10595)
 
 
 ## 2021
