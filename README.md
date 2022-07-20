@@ -10,6 +10,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2022
+- Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
+
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
 - Self-Labeling Framework for Novel Category Discovery over Domains (**AAAI** 2022) [[paper]](https://aaai-2022.virtualchair.net/poster_aaai1466)
 - Towards Open-Set Object Detection and Discovery (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.05604)
