@@ -6,7 +6,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
-- None yet.
+- Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
 
 
 ## 2022
