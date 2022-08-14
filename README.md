@@ -7,6 +7,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## Preprints
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
+- XCon: Learning with Experts for Fine-grained Category Discovery [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 
 
 ## 2022
