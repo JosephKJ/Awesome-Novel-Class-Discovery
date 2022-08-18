@@ -34,6 +34,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## 2020
 - Automatically Discovering and Learning New Visual Categories with Ranking Statistics (**ICLR** 2020) [[paper]](https://openreview.net/forum?id=BJl2_nVFPB) [[code]](https://github.com/k-han/AutoNovel) (RS)
+- Open-World Class Discovery with Kernel Networks (**ICDM** 2020) [[paper]](https://arxiv.org/abs/2012.06957) [[code]](https://github.com/neu-spiral/OpenWorldKNet)
 
 
 
