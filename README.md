@@ -9,12 +9,15 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
 - XCon: Learning with Experts for Fine-grained Category Discovery [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Open-world Contrastive Learning [[paper]](https://arxiv.org/abs/2208.02764)
+- Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
+- Demystifying Assumptions in Learning to Discover Novel Classes [[paper]](https://arxiv.org/abs/2102.04002)
 
 
 ## 2022
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261)
+- Residual Tuning: Toward Novel Category Discovery Without Labels (**TNNLS** 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577)
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
 - Self-Labeling Framework for Novel Category Discovery over Domains (**AAAI** 2022) [[paper]](https://aaai-2022.virtualchair.net/poster_aaai1466)
 - Towards Open-Set Object Detection and Discovery (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.05604)
@@ -22,6 +25,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2112.01900) [[code]](https://github.com/HeliosZhao/NCDSS)
 - Generalized Category Discovery (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery)
 - Spacing Loss for Discovering Novel Categories (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.10595)
+- Open Set Domain Adaptation By Novel Class Discovery (**ICME** 2022) [[paper]](https://arxiv.org/abs/2203.03329)
 
 
 ## 2021
@@ -31,6 +35,9 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Neighborhood Contrastive Learning for Novel Class Discovery (**CVPR** 2021) [[paper]](https://arxiv.org/abs/2106.10731) [[code]](https://github.com/zhunzhong07/NCL) (NCL)
 - OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)
 - AutoNovel: Automatically Discovering and Learning Novel Visual Categories (**TPAMI** 2021) [[paper]](https://arxiv.org/abs/2106.15252) (AutoNovel aka RS)
+- End-to-end novel visual categories learning via auxiliary self-supervision (**Neural Networks** 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608021000575) 
+- Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2021) [[paper]](https://ieeexplore.ieee.org/document/9409777) 
+
 
 
 ## 2020
