@@ -7,7 +7,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## Preprints
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
-- XCon: Learning with Experts for Fine-grained Category Discovery [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Open-world Contrastive Learning [[paper]](https://arxiv.org/abs/2208.02764)
 - Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - Demystifying Assumptions in Learning to Discover Novel Classes [[paper]](https://arxiv.org/abs/2102.04002)
@@ -15,6 +14,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2022
+- XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261)
