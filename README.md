@@ -9,7 +9,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
 - Open-world Contrastive Learning [[paper]](https://arxiv.org/abs/2208.02764)
 - Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
-- Demystifying Assumptions in Learning to Discover Novel Classes [[paper]](https://arxiv.org/abs/2102.04002)
 - A Method for Discovering Novel Classes in Tabular Data [[paper]](https://arxiv.org/abs/2209.01217)
 - A Closer Look at Novel Class Discovery from the Labeled Set [[paper]](https://arxiv.org/abs/2209.09120)
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery [[paper]](https://arxiv.org/abs/2210.03591)
