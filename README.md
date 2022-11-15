@@ -15,6 +15,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2022
+- Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2210.04174)
 - XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
