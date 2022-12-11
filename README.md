@@ -9,14 +9,16 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
 - Open-world Contrastive Learning [[paper]](https://arxiv.org/abs/2208.02764)
 - Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
-- Demystifying Assumptions in Learning to Discover Novel Classes [[paper]](https://arxiv.org/abs/2102.04002)
 - A Method for Discovering Novel Classes in Tabular Data [[paper]](https://arxiv.org/abs/2209.01217)
 - A Closer Look at Novel Class Discovery from the Labeled Set [[paper]](https://arxiv.org/abs/2209.09120)
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery [[paper]](https://arxiv.org/abs/2210.03591)
 - A Simple Parametric Classification Baseline for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
+- Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 
 
 ## 2022
+- Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (**EMNLP** 2022) [[paper]](https://arxiv.org/abs/2210.07733)
+- Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2210.04174)
 - XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
