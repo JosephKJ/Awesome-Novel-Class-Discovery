@@ -14,6 +14,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery [[paper]](https://arxiv.org/abs/2210.03591)
 - A Simple Parametric Classification Baseline for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
+- PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper]](https://arxiv.org/abs/2212.05590)
 
 
 ## 2022
