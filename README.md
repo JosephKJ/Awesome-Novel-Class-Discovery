@@ -7,7 +7,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## Preprints
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
-- Open-world Contrastive Learning [[paper]](https://arxiv.org/abs/2208.02764)
 - Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - A Method for Discovering Novel Classes in Tabular Data [[paper]](https://arxiv.org/abs/2209.01217)
 - A Closer Look at Novel Class Discovery from the Labeled Set [[paper]](https://arxiv.org/abs/2209.09120)
@@ -15,6 +14,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - A Simple Parametric Classification Baseline for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 
+## 2023
+- Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
 
 ## 2022
 - Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (**EMNLP** 2022) [[paper]](https://arxiv.org/abs/2210.07733)
