@@ -25,7 +25,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659) (NCDwF)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD)
-- OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261)
+- OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
 - Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
 - Residual Tuning: Toward Novel Category Discovery Without Labels (**TNNLS** 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577)
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI) (MEDI)
