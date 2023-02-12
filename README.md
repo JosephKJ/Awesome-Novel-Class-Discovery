@@ -15,6 +15,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper]](https://arxiv.org/abs/2212.05590)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262v2)
+- Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
 
 ## 2023
 - Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
