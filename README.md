@@ -18,7 +18,9 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
 
 ## 2023
+- Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2211.15115) [[code]](https://github.com/Lackel/DPN) (DPN)
 - Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
+
 
 ## 2022
 - Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (**EMNLP** 2022) [[paper]](https://arxiv.org/abs/2210.07733)
