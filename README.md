@@ -15,6 +15,9 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper]](https://arxiv.org/abs/2212.05590)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262v2)
 - Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
+- Effective Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://openreview.net/forum?id=hag85Gdq_RA)
+- Novel Class Discovery under Unreliable Sampling [[paper]](https://openreview.net/forum?id=uJzSlJruEjk)
+
 
 ## 2023
 - Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2211.15115) [[code]](https://github.com/Lackel/DPN) (DPN)
