@@ -19,7 +19,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
-- Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591)
+- Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591) [[code]](https://github.com/FanZhichen/NCD-IIC)
 - Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2211.15115) [[code]](https://github.com/Lackel/DPN) (DPN)
 - Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
 
