@@ -6,10 +6,11 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
+- NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
 - Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
-- A Simple Parametric Classification Baseline for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
+- Parametric Classification for Generalized Category Discovery: A Baseline Study [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[paper]](https://arxiv.org/abs/2212.05590)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262v2)
@@ -20,6 +21,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ## 2023
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591) [[code]](https://github.com/FanZhichen/NCD-IIC)
+- Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2303.11610) [[code]](https://github.com/LuigiRiz/NOPS)
 - Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2211.15115) [[code]](https://github.com/Lackel/DPN) (DPN)
 - Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
 
@@ -53,7 +55,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf) (OpenMix)
 - AutoNovel: Automatically Discovering and Learning Novel Visual Categories (**TPAMI** 2021) [[paper]](https://arxiv.org/abs/2106.15252) (AutoNovel aka RS)
 - End-to-end novel visual categories learning via auxiliary self-supervision (**Neural Networks** 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608021000575) 
-- Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2021) [[paper]](https://ieeexplore.ieee.org/document/9409777) 
+- Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2022) [[paper]](https://ieeexplore.ieee.org/document/9409777) [[code]](https://github.com/jymesen-wang/2022-TCYB-PSSCNCD)
 
 
 
