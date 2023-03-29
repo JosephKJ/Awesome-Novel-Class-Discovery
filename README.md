@@ -45,6 +45,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Generalized Category Discovery (**CVPR** 2022) [[paper]](https://arxiv.org/abs/2201.02609) [[code]](https://github.com/sgvaze/generalized-category-discovery) (GCD)
 - Spacing Loss for Discovering Novel Categories (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.10595) (Spacing Loss)
 - Open Set Domain Adaptation By Novel Class Discovery (**ICME** 2022) [[paper]](https://arxiv.org/abs/2203.03329)
+- Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2022) [[paper]](https://ieeexplore.ieee.org/document/9409777) [[code]](https://github.com/jymesen-wang/2022-TCYB-PSSCNCD)
+
 
 
 ## 2021
@@ -55,7 +57,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World (**CVPR** 2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf) (OpenMix)
 - AutoNovel: Automatically Discovering and Learning Novel Visual Categories (**TPAMI** 2021) [[paper]](https://arxiv.org/abs/2106.15252) (AutoNovel aka RS)
 - End-to-end novel visual categories learning via auxiliary self-supervision (**Neural Networks** 2021) [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608021000575) 
-- Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2022) [[paper]](https://ieeexplore.ieee.org/document/9409777) [[code]](https://github.com/jymesen-wang/2022-TCYB-PSSCNCD)
 
 
 
