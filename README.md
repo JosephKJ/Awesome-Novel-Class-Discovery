@@ -6,6 +6,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
+- Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
