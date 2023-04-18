@@ -11,7 +11,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
-- Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - Parametric Classification for Generalized Category Discovery: A Baseline Study [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262v2)
