@@ -20,6 +20,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[code]](https://github.com/muliyangm)
 - Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.17393) [[code]](https://github.com/TPCD/DCCL)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2212.05590) [[code]](https://github.com/sheng-eatamath/PromptCAL)
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591) [[code]](https://github.com/FanZhichen/NCD-IIC)
