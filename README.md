@@ -6,6 +6,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
+- What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
