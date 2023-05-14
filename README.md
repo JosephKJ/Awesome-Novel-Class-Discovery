@@ -39,6 +39,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - A Closer Look at Novel Class Discovery from the Labeled Set (**NeurIPS Workshop** 2022) [[paper]](https://arxiv.org/abs/2209.09120)
 - Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2210.04174) [[code]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/afe37ac3ce109cd33a23a6b3ed0cfc21-Abstract-Conference.html) (GM)
 - XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
+- Difficulty-Aware Simulator for Open Set Recognition (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10024) [[code]](https://github.com/wjun0830/Difficulty-Aware-Simulator) (DIAS)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659) (NCDwF)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) (FRoST)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
