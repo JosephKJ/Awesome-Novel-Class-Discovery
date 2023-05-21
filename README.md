@@ -6,6 +6,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
+- Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.06144)
+- CLIP-GCD: Simple Language Guided Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.10420)
 - Incremental Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.14310)
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
