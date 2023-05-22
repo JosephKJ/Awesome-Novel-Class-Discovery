@@ -20,12 +20,13 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 - Novel Class Discovery under Unreliable Sampling [[paper]](https://openreview.net/forum?id=uJzSlJruEjk)
+- NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
 
 
 ## 2023
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
-- NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
-- Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[code]](https://github.com/muliyangm)
+- On-the-fly Category Discovery) (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
+- Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf)
 - Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.17393) [[code]](https://github.com/TPCD/DCCL)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2212.05590) [[code]](https://github.com/sheng-eatamath/PromptCAL)
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591) [[code]](https://github.com/FanZhichen/NCD-IIC)
