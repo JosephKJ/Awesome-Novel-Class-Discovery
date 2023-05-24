@@ -26,7 +26,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 ## 2023
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
-- On-the-Fly Category Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]]([https://github.com/muliyangm](https://github.com/PRIS-CV/On-the-fly-Category-Discovery))
+- On-the-Fly Category Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]]([https://github.com/muliyangm](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
 - Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[code]](https://github.com/muliyangm)
 - Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.17393) [[code]](https://github.com/TPCD/DCCL)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2212.05590) [[code]](https://github.com/sheng-eatamath/PromptCAL)
