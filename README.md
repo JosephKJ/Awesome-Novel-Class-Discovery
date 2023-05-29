@@ -20,10 +20,10 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 - Novel Class Discovery under Unreliable Sampling [[paper]](https://openreview.net/forum?id=uJzSlJruEjk)
-- NeurNCD: Novel Class Discovery via Implicit Neural Representation [[code]](https://github.com/jmwang0117/NeurNCD)
 
 
 ## 2023
+- NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[paper]](https://arxiv.org/abs/2305.13095) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
 - On-the-Fly Category Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
 - Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf)
