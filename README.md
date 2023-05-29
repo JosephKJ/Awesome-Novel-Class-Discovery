@@ -24,6 +24,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- Towards Unbiased Training in Federated Open-world Semi-supervised Learning (**ICML** 2023)[[paper]](https://arxiv.org/pdf/2305.00771.pdf)
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
 - On-the-Fly Category Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
