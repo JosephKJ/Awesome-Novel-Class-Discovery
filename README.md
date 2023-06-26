@@ -34,7 +34,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2303.11610) [[code]](https://github.com/LuigiRiz/NOPS)
 - Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2211.15115) [[code]](https://github.com/Lackel/DPN) (DPN)
 - Supervised Knowledge May Hurt Novel Class Discovery Performance (**TMLR** 2023) [[paper]](https://openreview.net/pdf?id=oqOBTo5uWD)[[code]](https://github.com/J-L-O/SK-Hurt-NCD)
-- Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
+- OpenCon: Open-world Contrastive Learning (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2208.02764) [[code]](https://github.com/deeplearning-wisc/opencon/)
 
 
 ## 2022
