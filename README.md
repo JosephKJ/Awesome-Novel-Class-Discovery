@@ -23,6 +23,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- An Interactive Interface for Novel Class Discovery in Tabular Data (**ECML PKDD** 2023, Demo Track) [[paper]](https://arxiv.org/pdf/2306.12919.pdf) [[code]](https://github.com/ColinTr/InteractiveClustering)
 - When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (**ICML** 2023)  [[paper]](https://openreview.net/pdf?id=JHodnaW5WZ) [[code]](https://github.com/deeplearning-wisc/NSCL) 
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[paper]](https://arxiv.org/abs/2305.13095) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
