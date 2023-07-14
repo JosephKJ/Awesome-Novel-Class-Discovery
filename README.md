@@ -6,15 +6,12 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
-- Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.06144)
 - CLIP-GCD: Simple Language Guided Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.10420)
-- Incremental Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.14310)
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Mutual Information-guided Knowledge Transfer for Novel Class Discovery [[paper]](https://arxiv.org/abs/2206.12063)
-- Parametric Classification for Generalized Category Discovery: A Baseline Study [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262v2)
 - Mutual Information-based Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/fchiaroni/Mutual-Information-Based-GCD)
@@ -23,6 +20,9 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
+- Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2305.06144)
+- Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - An Interactive Interface for Novel Class Discovery in Tabular Data (**ECML PKDD** 2023, Demo Track) [[paper]](https://arxiv.org/pdf/2306.12919.pdf) [[code]](https://github.com/ColinTr/InteractiveClustering)
 - When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (**ICML** 2023)  [[paper]](https://openreview.net/pdf?id=JHodnaW5WZ) [[code]](https://github.com/deeplearning-wisc/NSCL) 
 - NeurNCD: Novel Class Discovery via Implicit Neural Representation (**IJCAI** 2023) [[paper]](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf) [[code]](https://github.com/jmwang0117/NeurNCD)
