@@ -20,6 +20,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
 - Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
 - Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2305.06144)
 - Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
