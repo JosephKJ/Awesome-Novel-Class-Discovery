@@ -6,6 +6,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## Preprints
+- Novel Categories Discovery from probability matrix perspective [[paper]](https://arxiv.org/abs/2307.03856)
+- Federated Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.14107)
 - CLIP-GCD: Simple Language Guided Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.10420)
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
@@ -20,6 +22,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2023
+- Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
 - Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
 - Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
 - Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2305.06144)
