@@ -63,6 +63,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Spacing Loss for Discovering Novel Categories (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/abs/2204.10595) (Spacing Loss)
 - Open Set Domain Adaptation By Novel Class Discovery (**ICME** 2022) [[paper]](https://arxiv.org/abs/2203.03329)
 - Progressive Self-Supervised Clustering With Novel Category Discovery (**TCYB** 2022) [[paper]](https://ieeexplore.ieee.org/document/9409777) [[code]](https://github.com/jymesen-wang/2022-TCYB-PSSCNCD)
+- Novel Class Discovery: A Dependency Approach (**ICASSP** 2022) [[paper]](https://ieeexplore.ieee.org/document/9747827)
 
 
 
