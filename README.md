@@ -25,6 +25,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 
 ## 2023
+- Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
 - Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
 - Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
