@@ -9,6 +9,7 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
+- ImbaGCD: Imbalanced Generalized Category Discovery (CVPR2023 workshop) [[paper]] https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf
 - Novel Categories Discovery from probability matrix perspective [[paper]](https://arxiv.org/abs/2307.03856)
 - Federated Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.14107)
 - CLIP-GCD: Simple Language Guided Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.10420)
