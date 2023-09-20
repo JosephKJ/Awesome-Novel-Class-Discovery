@@ -9,6 +9,10 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
+- Parametric Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334)
+- Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
+- Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
+- OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926)
 - ImbaGCD: Imbalanced Generalized Category Discovery (CVPR2023 workshop) [[paper]](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf)
 - Novel Categories Discovery from probability matrix perspective [[paper]](https://arxiv.org/abs/2307.03856)
 - Federated Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.14107)
@@ -27,6 +31,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 ## 2023
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
+- MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
 - Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
 - Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
