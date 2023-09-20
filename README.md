@@ -9,6 +9,7 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
+- Parametric Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2212.00334)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
 - OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926)
