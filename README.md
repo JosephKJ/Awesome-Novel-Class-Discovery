@@ -9,6 +9,8 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
+
+- A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
 - OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926) [[code]](https://github.com/Fulin-Gao/OpenGCD)
@@ -30,7 +32,10 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=cczH4Xl7Zo) [[code]](https://github.com/JianhongBai/BaCon)
 - No Representation Rules Them All in Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5ytypAqAsR) [[code]](http://www.robots.ox.ac.uk/~vgg/data/clevr4/)
 - Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
+- Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
+- Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
+- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
