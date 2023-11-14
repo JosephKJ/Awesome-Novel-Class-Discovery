@@ -27,6 +27,11 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 
 ## 2023
+- Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
+- Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
+- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=cczH4Xl7Zo) [[code]](https://github.com/JianhongBai/BaCon)
+- No Representation Rules Them All in Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5ytypAqAsR) [[code]](http://www.robots.ox.ac.uk/~vgg/data/clevr4/)
+- Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
@@ -43,7 +48,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [[paper]](https://arxiv.org/abs/2305.13095) [[code]](https://github.com/LiuJMzzZ/OpenNCD)
 - ImbaGCD: Imbalanced Generalized Category Discovery (**CVPR Workshop** 2023) [[paper]](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf)
 - On-the-Fly Category Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [[code]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)
-- Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf)
+- Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf) [[code]](https://github.com/muliyangm/BYOP)
 - Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/pdf/2303.17393) [[code]](https://github.com/TPCD/DCCL)
 - PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2212.05590) [[code]](https://github.com/sheng-eatamath/PromptCAL)
 - Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [[paper]](https://arxiv.org/abs/2210.03591) [[code]](https://github.com/FanZhichen/NCD-IIC)
