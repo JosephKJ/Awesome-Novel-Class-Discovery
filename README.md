@@ -9,7 +9,7 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
-
+- Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
 - A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
