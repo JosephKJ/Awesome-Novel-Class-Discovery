@@ -9,6 +9,7 @@ The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge
 Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
 
 ## Preprints
+- Novel class discovery meets foundation models for 3D semantic segmentation [[paper]](https://arxiv.org/abs/2312.03782)
 - Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
 - A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
@@ -29,19 +30,18 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 ## 2023
 - Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
 - Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
-- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=cczH4Xl7Zo) [[code]](https://github.com/JianhongBai/BaCon)
+- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - No Representation Rules Them All in Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5ytypAqAsR) [[code]](http://www.robots.ox.ac.uk/~vgg/data/clevr4/)
 - Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
-- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
 - Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
-- Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310)
-- Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2305.06144)
+- Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310) [[code]](https://github.com/DTennant/Incremental-Generalized-Category-Discovery)
+- Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2305.06144) [[code]](https://github.com/DTennant/GPC)
 - Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11727) [[code]](https://github.com/CVMI-Lab/SimGCD)
 - An Interactive Interface for Novel Class Discovery in Tabular Data (**ECML PKDD** 2023, Demo Track) [[paper]](https://arxiv.org/pdf/2306.12919.pdf) [[code]](https://github.com/ColinTr/InteractiveClustering)
 - When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (**ICML** 2023)  [[paper]](https://openreview.net/pdf?id=JHodnaW5WZ) [[code]](https://github.com/deeplearning-wisc/NSCL) 
