@@ -32,7 +32,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
 - Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - No Representation Rules Them All in Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5ytypAqAsR) [[code]](http://www.robots.ox.ac.uk/~vgg/data/clevr4/)
-- Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
+- Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL) [[code]](https://github.com/rain305f/TIDA)
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
