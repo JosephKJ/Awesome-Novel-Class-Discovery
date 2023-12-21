@@ -6,10 +6,21 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 ### ICCV 2023 Challenge on Generalized Category Discovery and Open-Set Recognition
 The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge will use the semantic shift benchmark to test GCD performance and OSR performance.
-Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop. 
+Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop.
+
+### Some Terms of Problem Setting
+- Novel Class Discovery (NCD, aka Novel Category Discovery)
+- Generalized Category Discovery (GCD, aka Generalized Class Discovery), Open-world Semi-supervised Learning (Open-word SSL)
+- Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel CLass Discovery (Class-iNCD)
+- Continuous Categories Discovery (CCD)
+- TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
-
+- Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
+- Towards Unbiased Training in Federated Open-world Semi-supervised Learning [[paper]](https://arxiv.org/abs/2305.00771)
+- Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
+- Novel class discovery meets foundation models for 3D semantic segmentation [[paper]](https://arxiv.org/abs/2312.03782)
+- Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
 - A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
@@ -26,16 +37,21 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 
 
+## 2024
+- Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
+- AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)
+
+
 ## 2023
+- A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2311.03524) [[code]](https://github.com/deeplearning-wisc/sorl)
 - Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
 - Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
-- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=cczH4Xl7Zo) [[code]](https://github.com/JianhongBai/BaCon)
+- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - No Representation Rules Them All in Category Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=5ytypAqAsR) [[code]](http://www.robots.ox.ac.uk/~vgg/data/clevr4/)
-- Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL)
+- Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL) [[code]](https://github.com/rain305f/TIDA)
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
-- Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2310.01376) [[code]](https://github.com/JianhongBai/BaCon)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
@@ -62,8 +78,10 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - A Method for Discovering Novel Classes in Tabular Data (**ICKG** 2022) [[paper]](https://www.researchgate.net/publication/368313618_A_Method_for_Discovering_Novel_Classes_in_Tabular_Data) [[code]](https://github.com/ColinTr/TabularNCD)
 - Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (**EMNLP** 2022) [[paper]](https://arxiv.org/abs/2210.07733)
 - A Closer Look at Novel Class Discovery from the Labeled Set (**NeurIPS Workshop** 2022) [[paper]](https://arxiv.org/abs/2209.09120)
+- Robust Semi-Supervised Learning when Not All Classes have Labels (**NeurIPS** 2022) [[paper]](https://openreview.net/forum?id=lDohSFOHr0) [[code]](https://www.lamda.nju.edu.cn/code_NACH.ashx)
 - Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS** 2022) [[paper]](https://arxiv.org/abs/2210.04174) [[code]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/afe37ac3ce109cd33a23a6b3ed0cfc21-Abstract-Conference.html) (GM)
 - XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [[paper]](https://arxiv.org/abs/2208.01898) [[code]](https://github.com/YiXXin/XCon)
+- Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659) (NCDwF)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) (FRoST)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
