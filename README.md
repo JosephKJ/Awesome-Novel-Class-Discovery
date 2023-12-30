@@ -16,6 +16,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
 - Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
 - Towards Unbiased Training in Federated Open-world Semi-supervised Learning [[paper]](https://arxiv.org/abs/2305.00771)
 - Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
@@ -38,6 +39,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 
 ## 2024
+- Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
 - AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)
 
