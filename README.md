@@ -54,7 +54,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
 - Generalized Categories Discovery for Long-tailed Recognition (**ICCV Workshop** 2023) [[paper]](https://arxiv.org/abs/2401.05352)
-- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262) [[code]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file)
+- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11262) [[code]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
