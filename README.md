@@ -34,7 +34,6 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
-- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 
 
@@ -54,6 +53,8 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
+- Generalized Categories Discovery for Long-tailed Recognition (**ICCV Workshop** 2023) [[paper]](https://arxiv.org/abs/2401.05352)
+- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262) [[code]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
