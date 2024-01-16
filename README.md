@@ -16,6 +16,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
 - Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
 - Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
 - Towards Unbiased Training in Federated Open-world Semi-supervised Learning [[paper]](https://arxiv.org/abs/2305.00771)
