@@ -43,6 +43,8 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 
 ## 2023
+
+- Generalized Categories Discovery for Long-tailed Recognition （**ICCV Workshop** 2023）[[paper]](https://arxiv.org/abs/2401.05352)
 - A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2311.03524) [[code]](https://github.com/deeplearning-wisc/sorl)
 - Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
 - Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
