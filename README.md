@@ -16,6 +16,8 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
+- Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
 - Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
 - Towards Unbiased Training in Federated Open-world Semi-supervised Learning [[paper]](https://arxiv.org/abs/2305.00771)
 - Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
@@ -33,11 +35,12 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
-- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier [[paper]](https://arxiv.org/abs/2211.11262)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 
 
 ## 2024
+- SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE)
+- Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
 - AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)
 
@@ -52,6 +55,8 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 - Generalized Category Discovery with Clustering Assignment Consistency (**ICONIP** 2023) [[paper]](https://arxiv.org/abs/2310.19210)
 - Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (**MICCAI** 2023) [[paper]](https://arxiv.org/abs/2309.16451)
 - Novel Class Discovery for Long-tailed Recognition (**TMLR** 2023) [[paper]](https://arxiv.org/abs/2308.02989)
+- Generalized Categories Discovery for Long-tailed Recognition (**ICCV Workshop** 2023) [[paper]](https://arxiv.org/abs/2401.05352)
+- Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11262) [[code]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
 - MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
