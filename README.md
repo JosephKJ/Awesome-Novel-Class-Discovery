@@ -4,10 +4,6 @@ Novel Class Discovery (NCD) is a machine learning problem, where novel categorie
 
 Here, we provide a non-exhaustive list of papers that studies NCD. 
 
-### ICCV 2023 Challenge on Generalized Category Discovery and Open-Set Recognition
-The OOD-CV workshop hosts a challenge on GCD and OSR at ICCV 2023, the challenge will use the semantic shift benchmark to test GCD performance and OSR performance.
-Click [[here]](http://www.ood-cv.org/challenge.html) for more information about the challenge, [[here]](http://www.ood-cv.org/index.html) for more information on the workshop.
-
 ### Some Terms of Problem Setting
 - Novel Class Discovery (NCD, aka Novel Category Discovery)
 - Generalized Category Discovery (GCD, aka Generalized Class Discovery), Open-world Semi-supervised Learning (Open-word SSL)
