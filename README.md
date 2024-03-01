@@ -39,7 +39,7 @@ Click [[here]](http://www.ood-cv.org/challenge.html) for more information about 
 
 
 ## 2024
-- SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet)
+- SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet) 
 - Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
 - AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)
