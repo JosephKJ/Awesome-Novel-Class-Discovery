@@ -9,6 +9,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Generalized Category Discovery (GCD, aka Generalized Class Discovery), Open-world Semi-supervised Learning (Open-word SSL)
 - Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel CLass Discovery (Class-iNCD)
 - Continuous Categories Discovery (CCD)
+- Federated Generalized Category Discovery (Fed-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
@@ -24,7 +25,6 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
 - OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926) [[code]](https://github.com/Fulin-Gao/OpenGCD)
 - Novel Categories Discovery from probability matrix perspective [[paper]](https://arxiv.org/abs/2307.03856)
-- Federated Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.14107)
 - CLIP-GCD: Simple Language Guided Generalized Category Discovery [[paper]](https://arxiv.org/abs/2305.10420)
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
@@ -35,6 +35,8 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 
 
 ## 2024
+- Federated Generalized Category Discovery  (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
+- DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS (Discover Fine-Grained Classes. **ICLR** 2024) [[paper]]([https://openreview.net/forum?id=3QLkwU40EE](https://openreview.net/forum?id=c7DND1iIgb)) [[PROJECT]](https://projfiner.github.io) 
 - SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet) 
 - Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
