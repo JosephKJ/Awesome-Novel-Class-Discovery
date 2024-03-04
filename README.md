@@ -12,6 +12,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- PANDAS: Prototype-based Novel Class Discovery and Detection [[paper]](https://arxiv.org/abs/2402.17420) [[code]](https://github.com/naver/pandas)
 - Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
 - Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
 - Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
