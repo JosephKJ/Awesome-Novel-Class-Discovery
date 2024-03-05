@@ -2,7 +2,7 @@
 
 Novel Class Discovery (NCD) is a machine learning problem, where novel categories of instances are to be automatically discovered from an unlabelled pool. In contrast to clustering, NCD setting has access to labelled data from a disjoint set of classes. This topic has plausible real-world applications and is gathering much attention in the research community.  
 
-Here, we provide a non-exhaustive list of papers that studies NCD. 
+Here, we provide a non-exhaustive list of papers that study NCD. 
 
 ### Some Terms of Problem Setting
 - Novel Class Discovery (NCD, aka Novel Category Discovery)
@@ -13,6 +13,7 @@ Here, we provide a non-exhaustive list of papers that studies NCD.
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 - PANDAS: Prototype-based Novel Class Discovery and Detection [[paper]](https://arxiv.org/abs/2402.17420) [[code]](https://github.com/naver/pandas)
 - Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
 - Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
