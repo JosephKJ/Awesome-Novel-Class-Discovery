@@ -46,7 +46,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2023
-
+- Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (**EMNLP** 2023) [[paper]](https://arxiv.org/abs/2305.13533) [[code]](https://github.com/wphogan/knord)
 - Generalized Categories Discovery for Long-tailed Recognition （**ICCV Workshop** 2023）[[paper]](https://arxiv.org/abs/2401.05352)
 - A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2311.03524) [[code]](https://github.com/deeplearning-wisc/sorl)
 - Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
