@@ -38,7 +38,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 ## 2024
 - Federated Generalized Category Discovery  (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
-- DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS (Discover Fine-Grained Classes. **ICLR** 2024) [[paper]]([https://openreview.net/forum?id=3QLkwU40EE](https://openreview.net/forum?id=c7DND1iIgb)) [[PROJECT]](https://projfiner.github.io) 
+- DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS (Discover Fine-Grained Classes. **ICLR** 2024) [[paper]](https://openreview.net/forum?id=c7DND1iIgb) [[PROJECT]](https://projfiner.github.io) 
 - SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet) 
 - Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
