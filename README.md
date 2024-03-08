@@ -10,6 +10,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel CLass Discovery (Class-iNCD)
 - Continuous Categories Discovery (CCD)
 - Federated Generalized Category Discovery (Fed-GCD)
+- Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
