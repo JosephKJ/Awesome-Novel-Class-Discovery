@@ -10,6 +10,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel CLass Discovery (Class-iNCD)
 - Continuous Categories Discovery (CCD)
 - Federated Generalized Category Discovery (Fed-GCD)
+- Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
@@ -37,6 +38,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Active Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.04272) [[code]](https://github.com/mashijie1028/ActiveGCD)
 - Federated Generalized Category Discovery  (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
 - DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS (Discover Fine-Grained Classes. **ICLR** 2024) [[paper]]([https://openreview.net/forum?id=3QLkwU40EE](https://openreview.net/forum?id=c7DND1iIgb)) [[PROJECT]](https://projfiner.github.io) 
 - SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet) 
