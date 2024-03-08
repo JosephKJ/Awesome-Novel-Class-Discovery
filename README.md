@@ -37,9 +37,13 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
-- Federated Generalized Category Discovery  (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
-- DEMOCRATIZING FINE-GRAINED VISUAL RECOGNITION WITH LARGE LANGUAGE MODELS (Discover Fine-Grained Classes. **ICLR** 2024) [[paper]]([https://openreview.net/forum?id=3QLkwU40EE](https://openreview.net/forum?id=c7DND1iIgb)) [[PROJECT]](https://projfiner.github.io) 
-- SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet) 
+- Active Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.04272) [[code]](https://github.com/mashijie1028/ActiveGCD)
+- Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.01053)
+- Federated Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
+- Democratizing Fine-grained Visual Recognition with Large Language Models (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=c7DND1iIgb) [[project]](https://projfiner.github.io) 
+- SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [[paper]](https://openreview.net/forum?id=3QLkwU40EE) [[code]](https://github.com/Visual-AI/SPTNet)
+- Adaptive Discovering and Merging for Incremental Novel Class Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2403.03382)
+- Debiased Novel Category Discovering and Localization (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2402.18821)
 - Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [[paper]](https://arxiv.org/abs/2312.16467) [[code]](https://github.com/Lackel/TAN)
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
 - AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)
@@ -47,7 +51,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 ## 2023
 - Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (**EMNLP** 2023) [[paper]](https://arxiv.org/abs/2305.13533) [[code]](https://github.com/wphogan/knord)
-- Generalized Categories Discovery for Long-tailed Recognition （**ICCV Workshop** 2023）[[paper]](https://arxiv.org/abs/2401.05352)
 - A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [[paper]](https://arxiv.org/abs/2311.03524) [[code]](https://github.com/deeplearning-wisc/sorl)
 - Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [[paper]](https://openreview.net/pdf?id=UYl9IIsjq7)
 - Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (**NeurIPS** 2023) [[paper]](https://arxiv.org/pdf/2310.19776.pdf) [[code]](https://github.com/SarahRastegar/InfoSieve)
