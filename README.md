@@ -35,6 +35,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
+- Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery [[paper]](https://arxiv.org/abs/2403.07369)
 
 
 ## 2024
