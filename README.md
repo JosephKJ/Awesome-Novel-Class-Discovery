@@ -68,7 +68,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Generalized Categories Discovery for Long-tailed Recognition (**ICCV Workshop** 2023) [[paper]](https://arxiv.org/abs/2401.05352)
 - Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2211.11262) [[code]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file)
 - Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2212.00334) [[code]](https://github.com/ThalesGroup/pim-generalized-category-discovery)
-- MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063)
+- MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2308.11063) [[code]](https://github.com/ynanwu/MetaGCD)
 - Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.10943)
 - Class-relation Knowledge Distillation for Novel Class Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2307.09158)
 - Incremental Generalized Category Discovery (**ICCV** 2023) [[paper]](https://arxiv.org/abs/2304.14310) [[code]](https://github.com/DTennant/Incremental-Generalized-Category-Discovery)
