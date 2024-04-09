@@ -39,6 +39,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+-Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR** 2024) [[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
 - Active Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.04272) [[code]](https://github.com/mashijie1028/ActiveGCD)
 - Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.01053)
 - Federated Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
