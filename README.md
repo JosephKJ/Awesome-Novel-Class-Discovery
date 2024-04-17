@@ -14,6 +14,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
 ## Preprints
+- Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [[paper]](https://arxiv.org/abs/2404.08995) [[code]](https://github.com/xjtuYW/PNP)
 - GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 - Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2401.13325)
 - YOLOOC: YOLO-based Open-Class Incremental Object Detection with Novel Class Discovery [[paper]](https://arxiv.org/abs/2404.00257)
