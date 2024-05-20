@@ -44,6 +44,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2405.06283) [[code]](https://github.com/SSDUT-Caiyq/UFG-NCD)
 - Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2404.09451) [[code]](https://github.com/sua-choi/CMS)
 - CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery (**CVPR Workshop** 2024) [[paper]](https://arxiv.org/abs/2404.05366)
 - Active Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.04272) [[code]](https://github.com/mashijie1028/ActiveGCD)
