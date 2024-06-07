@@ -28,7 +28,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
 - Novel class discovery meets foundation models for 3D semantic segmentation [[paper]](https://arxiv.org/abs/2312.03782)
 - Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
-- A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
 - OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926) [[code]](https://github.com/Fulin-Gao/OpenGCD)
@@ -44,6 +43,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- A Practical Approach to Novel Class Discovery in Tabular Data (**DMKD** 2024) [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/ColinTr/PracticalNCD)
 - Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2405.06283) [[code]](https://github.com/SSDUT-Caiyq/UFG-NCD)
 - Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2404.09451) [[code]](https://github.com/sua-choi/CMS)
 - CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery (**CVPR Workshop** 2024) [[paper]](https://arxiv.org/abs/2404.05366)
@@ -108,7 +108,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659) (NCDwF)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) (FRoST)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
-- Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
 - Residual Tuning: Toward Novel Category Discovery Without Labels (**TNNLS** 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577) [[code]](https://github.com/liuyudut/ResTune) (ResTune)
 - Open-World Semi-Supervised Learning (**ICLR** 2022) [[paper]](https://arxiv.org/abs/2102.03526) [[code]](https://github.com/snap-stanford/orca)
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI) (MEDI)
