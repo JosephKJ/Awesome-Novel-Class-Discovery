@@ -13,13 +13,16 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
+## Survey Papers
+- Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
+- Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
+
 ## Preprints
 - Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [[paper]](https://arxiv.org/abs/2404.08995) [[code]](https://github.com/xjtuYW/PNP)
 - GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 - Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2401.13325)
 - YOLOOC: YOLO-based Open-Class Incremental Object Detection with Novel Class Discovery [[paper]](https://arxiv.org/abs/2404.00257)
 - Beyond the Known: Novel Class Discovery for Open-world Graph Learning [[paper]](https://arxiv.org/abs/2403.19907)
-- Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 - PANDAS: Prototype-based Novel Class Discovery and Detection [[paper]](https://arxiv.org/abs/2402.17420) [[code]](https://github.com/naver/pandas)
 - Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
 - Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
@@ -36,7 +39,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
-- Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 - Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery [[paper]](https://arxiv.org/abs/2403.07369)
