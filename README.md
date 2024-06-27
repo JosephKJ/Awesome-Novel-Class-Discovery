@@ -18,6 +18,9 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 
 ## Preprints
+- Continual Novel Class Discovery via Feature Enhancement and Adaptation [[paper]](https://arxiv.org/abs/2405.06389)
+- Exclusive Style Removal for Cross Domain Novel Class Discovery [[paper]](https://arxiv.org/abs/2406.18140)
+- Revisiting Mutual Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2405.20711)
 - Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [[paper]](https://arxiv.org/abs/2404.08995) [[code]](https://github.com/xjtuYW/PNP)
 - GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
 - Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2401.13325)
