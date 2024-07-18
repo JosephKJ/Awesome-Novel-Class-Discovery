@@ -48,6 +48,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [[paper]](https://arxiv.org/pdf/2407.12489) [[code]](https://github.com/RikkiXu/NCD_PC)
 - A Practical Approach to Novel Class Discovery in Tabular Data (**DMKD** 2024) [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/ColinTr/PracticalNCD)
 - Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2405.06283) [[code]](https://github.com/SSDUT-Caiyq/UFG-NCD)
 - Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2404.09451) [[code]](https://github.com/sua-choi/CMS)
