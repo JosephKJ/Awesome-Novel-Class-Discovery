@@ -18,6 +18,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 
 ## Preprints
+- HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [[paper]](https://arxiv.org/abs/2408.04591)
 - Continual Novel Class Discovery via Feature Enhancement and Adaptation [[paper]](https://arxiv.org/abs/2405.06389)
 - Exclusive Style Removal for Cross Domain Novel Class Discovery [[paper]](https://arxiv.org/abs/2406.18140)
 - Revisiting Mutual Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2405.20711)
@@ -48,7 +49,11 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
+- Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
 - Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [[paper]](https://arxiv.org/pdf/2407.12489) [[code]](https://github.com/RikkiXu/NCD_PC)
+- Contextuality Helps Representation Learning for Generalized Category Discovery (**ICIP** 2024) [[paper]](https://arxiv.org/abs/2407.19752) [[code]](https://github.com/Clarence-CV/Contexuality-GCD)
+- NC-NCD: Novel Class Discovery for Node Classification (**CIKM** 2024) [[paper]](https://arxiv.org/abs/2407.17816)
 - A Practical Approach to Novel Class Discovery in Tabular Data (**DMKD** 2024) [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/ColinTr/PracticalNCD)
 - Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2405.06283) [[code]](https://github.com/SSDUT-Caiyq/UFG-NCD)
 - Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2404.09451) [[code]](https://github.com/sua-choi/CMS)
