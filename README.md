@@ -13,8 +13,20 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
-## Preprints
+## Survey Papers
+- Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
+
+## Preprints
+- HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [[paper]](https://arxiv.org/abs/2408.04591)
+- Continual Novel Class Discovery via Feature Enhancement and Adaptation [[paper]](https://arxiv.org/abs/2405.06389)
+- Exclusive Style Removal for Cross Domain Novel Class Discovery [[paper]](https://arxiv.org/abs/2406.18140)
+- Revisiting Mutual Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2405.20711)
+- Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [[paper]](https://arxiv.org/abs/2404.08995) [[code]](https://github.com/xjtuYW/PNP)
+- GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
+- Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2401.13325)
+- YOLOOC: YOLO-based Open-Class Incremental Object Detection with Novel Class Discovery [[paper]](https://arxiv.org/abs/2404.00257)
+- Beyond the Known: Novel Class Discovery for Open-world Graph Learning [[paper]](https://arxiv.org/abs/2403.19907)
 - PANDAS: Prototype-based Novel Class Discovery and Detection [[paper]](https://arxiv.org/abs/2402.17420) [[code]](https://github.com/naver/pandas)
 - Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery [[paper]](https://arxiv.org/abs/2401.06327)
 - Federated Continual Novel Class Learning [[paper]](https://arxiv.org/abs/2312.13500)
@@ -23,7 +35,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
 - Novel class discovery meets foundation models for 3D semantic segmentation [[paper]](https://arxiv.org/abs/2312.03782)
 - Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
-- A Practical Approach to Novel Class Discovery in Tabular Data [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/PracticalNCD/ECMLPKDD2024)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
 - OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [[paper]](https://arxiv.org/abs/2308.06926) [[code]](https://github.com/Fulin-Gao/OpenGCD)
@@ -32,13 +43,22 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - What's in a Name? Beyond Class Indices for Image Recognition [[paper]](https://arxiv.org/abs/2304.02364) (SCD, Semantic Category Discovery)
 - NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery [[paper]](https://arxiv.org/abs/2304.07354) [[code]](https://huggingface.co/datasets/mahmed10/MPSC_MV)
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
-- Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 - Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery [[paper]](https://arxiv.org/abs/2403.07369)
 
 
 ## 2024
+- Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]]([https://github.com/Visual-AI/PromptCCD](https://github.com/KHU-AGI/OCGCD))
+- PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
+- Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
+- Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [[paper]](https://arxiv.org/pdf/2407.12489) [[code]](https://github.com/RikkiXu/NCD_PC)
+- Contextuality Helps Representation Learning for Generalized Category Discovery (**ICIP** 2024) [[paper]](https://arxiv.org/abs/2407.19752) [[code]](https://github.com/Clarence-CV/Contexuality-GCD)
+- NC-NCD: Novel Class Discovery for Node Classification (**CIKM** 2024) [[paper]](https://arxiv.org/abs/2407.17816)
+- A Practical Approach to Novel Class Discovery in Tabular Data (**DMKD** 2024) [[paper]](https://arxiv.org/abs/2311.05440) [[code]](https://github.com/ColinTr/PracticalNCD)
+- Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2405.06283) [[code]](https://github.com/SSDUT-Caiyq/UFG-NCD)
+- Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2404.09451) [[code]](https://github.com/sua-choi/CMS)
+- CDAD-Net: Bridging Domain Gaps in Generalized Category Discovery (**CVPR Workshop** 2024) [[paper]](https://arxiv.org/abs/2404.05366)
 - Active Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.04272) [[code]](https://github.com/mashijie1028/ActiveGCD)
 - Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2403.01053)
 - Federated Generalized Category Discovery (**CVPR** 2024) [[paper]](https://arxiv.org/abs/2305.14107)
@@ -100,7 +120,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.10659) (NCDwF)
 - Class-incremental Novel Class Discovery (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.08605) [[code]](https://github.com/OatmealLiu/class-iNCD) (FRoST)
 - OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02261) [[code]](https://github.com/nayeemrizve/OpenLDN)
-- Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [[paper]](https://arxiv.org/abs/2207.02269) [[code]](https://github.com/nayeemrizve/TRSSL)
 - Residual Tuning: Toward Novel Category Discovery Without Labels (**TNNLS** 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577) [[code]](https://github.com/liuyudut/ResTune) (ResTune)
 - Open-World Semi-Supervised Learning (**ICLR** 2022) [[paper]](https://arxiv.org/abs/2102.03526) [[code]](https://github.com/snap-stanford/orca)
 - Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [[paper]](https://openreview.net/forum?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI) (MEDI)
