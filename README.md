@@ -49,6 +49,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]](https://github.com/KHU-AGI/OCGCD)
 - PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
 - Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
 - Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [[paper]](https://arxiv.org/pdf/2407.12489) [[code]](https://github.com/RikkiXu/NCD_PC)
