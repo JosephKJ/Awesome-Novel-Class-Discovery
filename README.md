@@ -1,4 +1,4 @@
-# Awesome-Novel-Class-Discovery 
+![image](https://github.com/user-attachments/assets/f9ede721-e7c8-4952-8dff-0e2a0b2979e4)![image](https://github.com/user-attachments/assets/741599e9-9d5f-44de-94f0-081f4ae3f5dd)# Awesome-Novel-Class-Discovery 
 
 Novel Class Discovery (NCD) is a machine learning problem, where novel categories of instances are to be automatically discovered from an unlabelled pool. In contrast to clustering, NCD setting has access to labelled data from a disjoint set of classes. This topic has plausible real-world applications and is gathering much attention in the research community.  
 
@@ -49,6 +49,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.06535) [[code]](https://github.com/mashijie1028/Happy-CGCD)
 - Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]](https://github.com/KHU-AGI/OCGCD)
 - PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
 - Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
