@@ -49,6 +49,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.14371) [[code]](https://github.com/SarahRastegar/SelEx)
 - Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]](https://github.com/KHU-AGI/OCGCD)
 - PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
 - Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
