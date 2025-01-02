@@ -46,11 +46,12 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
-- Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery [[paper]](https://arxiv.org/abs/2403.07369)
 
 
 ## 2024
+- Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.19213) [[code]](https://github.com/HaiyangZheng/PHE)
 - Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.06535) [[code]](https://github.com/mashijie1028/Happy-CGCD)
+- Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2403.07369) [[code]](https://github.com/HaiyangZheng/TextGCD)
 - SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.14371) [[code]](https://github.com/SarahRastegar/SelEx)
 - Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]](https://github.com/KHU-AGI/OCGCD)
 - PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
