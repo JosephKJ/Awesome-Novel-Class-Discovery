@@ -18,6 +18,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 
 ## Preprints
+- Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [[paper]](https://arxiv.org/abs/2410.13285)[[code]](https://github.com/algpy/conceptGCD)
 - HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [[paper]](https://arxiv.org/abs/2408.04591)
 - Continual Novel Class Discovery via Feature Enhancement and Adaptation [[paper]](https://arxiv.org/abs/2405.06389)
 - Exclusive Style Removal for Cross Domain Novel Class Discovery [[paper]](https://arxiv.org/abs/2406.18140)
@@ -49,7 +50,9 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 ## 2024
 - Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.19213) [[code]](https://github.com/HaiyangZheng/PHE)
+- Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.06535) [[code]](https://github.com/mashijie1028/Happy-CGCD)
 - Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2403.07369) [[code]](https://github.com/HaiyangZheng/TextGCD)
+- SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.14371) [[code]](https://github.com/SarahRastegar/SelEx)
 - Online Continuous Generalized Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2408.13492) [[code]](https://github.com/KHU-AGI/OCGCD)
 - PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.19001) [[code]](https://github.com/Visual-AI/PromptCCD)
 - Self-Cooperation Knowledge Distillation for Novel Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2407.01930)
