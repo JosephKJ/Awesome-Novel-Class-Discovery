@@ -34,7 +34,6 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Generalized Category Discovery with Large Language Models in the Loop [[paper]](https://arxiv.org/abs/2312.10897)
 - Towards Unbiased Training in Federated Open-world Semi-supervised Learning [[paper]](https://arxiv.org/abs/2305.00771)
 - Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2309.11930)
-- Novel class discovery meets foundation models for 3D semantic segmentation [[paper]](https://arxiv.org/abs/2312.03782)
 - Generalized Category Discovery in Semantic Segmentation [[paper]](https://arxiv.org/abs/2311.11525) [[code]](https://github.com/JethroPeng/GCDSS)
 - Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery [[paper]](https://arxiv.org/abs/2308.13801)
 - Generalized Continual Category Discovery [[paper]](https://arxiv.org/abs/2308.12112)
@@ -49,6 +48,7 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 
 ## 2024
+- Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [[paper]](https://doi.org/10.1007/s11263-024-02180-x) [[code]](https://github.com/LuigiRiz/SNOPS)
 - Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.19213) [[code]](https://github.com/HaiyangZheng/PHE)
 - Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [[paper]](https://arxiv.org/abs/2410.06535) [[code]](https://github.com/mashijie1028/Happy-CGCD)
 - Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV** 2024) [[paper]](https://arxiv.org/abs/2403.07369) [[code]](https://github.com/HaiyangZheng/TextGCD)
