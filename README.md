@@ -46,6 +46,8 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
 
+## 2025
+- ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [[paper]](https://arxiv.org/abs/2504.03755) [[code]](https://github.com/mashijie1028/ProtoGCD)
 
 ## 2024
 - Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [[paper]](https://doi.org/10.1007/s11263-024-02180-x) [[code]](https://github.com/LuigiRiz/SNOPS)
