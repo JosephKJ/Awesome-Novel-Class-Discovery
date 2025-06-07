@@ -13,8 +13,10 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 - Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
-### The Taxonomy Tree Diagram
-Below is the taxonomy tree diagram of novel class discovery.
+### The Evolutionary Tree Diagram
+Below is the evolutionary tree diagram of novel class discovery:
+![diagram](assets/ncd-tree.png)
+More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## Survey Papers
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
