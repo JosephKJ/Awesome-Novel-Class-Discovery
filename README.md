@@ -6,16 +6,21 @@ Here, we provide a non-exhaustive list of papers that study NCD.
 
 ### Some Terms of Problem Setting
 - Novel Class Discovery (NCD, aka Novel Category Discovery)
-- Generalized Category Discovery (GCD, aka Generalized Class Discovery), Open-world Semi-supervised Learning (Open-word SSL)
-- Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel CLass Discovery (Class-iNCD)
+- Generalized Category Discovery (GCD, aka Generalized Class Discovery), Open-world Semi-supervised Learning (Open-world SSL)
+- Novel Class Discovery without Forgetting (NCDwF), Class-incremental Novel Class Discovery (Class-iNCD)
 - Continuous Categories Discovery (CCD)
 - Federated Generalized Category Discovery (Fed-GCD)
 - Active Generalized Category Discovery (Active-GCD)
 - TODO, such as Incremental Generalized Category Discovery (IGCD), Semantic Category Discovery (SCD)
 
+### The Evolutionary Tree Diagram
+Below is the evolutionary tree diagram of novel class discovery:
+![diagram](assets/ncd-tree.png)
+More details are in this [survey](https://arxiv.org/abs/2403.01759).
+
 ## Survey Papers
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
-- Open-world Machine Learning: A Review and New Outlooks [[paper]](https://arxiv.org/abs/2403.01759)
+- Open-world Machine Learning: A Systematic Review and Future Directions [[paper]](https://arxiv.org/abs/2403.01759)
 
 ## Preprints
 - Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [[paper]](https://arxiv.org/abs/2410.13285)[[code]](https://github.com/algpy/conceptGCD)
