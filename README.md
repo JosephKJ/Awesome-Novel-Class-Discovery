@@ -20,7 +20,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## Survey Papers
 - Novel Class Discovery: an Introduction and Key Concepts [[paper]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
-- Open-world Machine Learning: A Systematic Review and Future Directions [[paper]](https://arxiv.org/abs/2403.01759)
+- Open-world machine learning: A review and new outlooks [[paper]](https://arxiv.org/abs/2403.01759)
 
 ## Preprints
 - Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [[paper]](https://arxiv.org/abs/2410.13285)[[code]](https://github.com/algpy/conceptGCD)
