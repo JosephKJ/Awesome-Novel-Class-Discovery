@@ -109,6 +109,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery (**TMLR** 2026) [[paper]](https://openreview.net/forum?id=IagXybmY3i)
 
 ## 2025
+- SynC and SynC-AL: Language-assisted Feature Representation and Lightweight Active Learning For On-the-Fly Category Discovery (**TMLR** 2025) [[paper]](https://openreview.net/pdf?id=ZihFoM8K0j) [[code]](https://github.com/missBanerjee/SynC)
 - ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [[paper]](https://arxiv.org/abs/2504.03755) [[code]](https://github.com/mashijie1028/ProtoGCD)
 - DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [[paper]](https://arxiv.org/abs/2504.04804) [[code]](https://github.com/Visual-AI/DebGCD)
 - HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (**ICLR** 2025) [[paper]](https://arxiv.org/abs/2408.04591) [[code]](https://github.com/Visual-AI/HiLo)
