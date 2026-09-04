@@ -63,7 +63,6 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Explainable Novel Category Discovery in Semantic Concept Space [[paper]](https://arxiv.org/abs/2607.04548)
 
 ## 2026
-- Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI** 2026) [[paper]](https://ieeexplore.ieee.org/document/11644319) [[code]](https://github.com/mashijie1028/happy-cgcd)
 - Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.html) [[code]](https://github.com/hewei98/SSR2-GCD)
 - The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_The_Devil_Is_in_Gradient_Entanglement_Energy-Aware_Gradient_Coordinator_for_CVPR_2026_paper.html) [[code]](https://haiyangzheng.github.io/EAGC/)
 - Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [[code]](https://github.com/zhou-9527/AnaLogical-GCD)
@@ -98,7 +97,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Expectation-Maximization Driven Contrastive Disentanglement for Generalized Category Discovery (**WWW** 2026) [[paper]](https://doi.org/10.1145/3774904.3792255)
 - Generalized Category Discovery for LiDAR Semantic Segmentation (**WACV** 2026) [[paper]](https://doi.org/10.1109/WACV61042.2026.00812) [[code]](https://github.com/Minseokkim-0124/Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation)
 - GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [[paper]](https://aclanthology.org/2026.eacl-long.358/) [[code]](https://github.com/amazon-science/Glean)
-- Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI** 2026) [[paper]](https://doi.org/10.1109/tpami.2026.3721625)
+- Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [[paper]](https://doi.org/10.1109/tpami.2026.3721625) [[code]](https://github.com/mashijie1028/happy-cgcd)
 - Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [[paper]](https://doi.org/10.1007/s11263-026-02970-5) [[code]](https://github.com/HaiyangZheng/MGCE)
 - Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery (**IJCV** 2026) [[paper]](https://doi.org/10.1007/s11263-026-02745-y)
 - Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery (**TMM** 2026) [[paper]](https://doi.org/10.1109/tmm.2026.3668655)
