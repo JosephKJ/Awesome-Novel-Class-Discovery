@@ -63,7 +63,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Explainable Novel Category Discovery in Semantic Concept Space [[paper]](https://arxiv.org/abs/2607.04548)
 
 ## 2026
-
+- Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI** 2026) [[paper]](https://ieeexplore.ieee.org/document/11644319) [[code]](https://github.com/mashijie1028/happy-cgcd)
 - Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.html) [[code]](https://github.com/hewei98/SSR2-GCD)
 - The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_The_Devil_Is_in_Gradient_Entanglement_Energy-Aware_Gradient_Coordinator_for_CVPR_2026_paper.html) [[code]](https://haiyangzheng.github.io/EAGC/)
 - Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [[code]](https://github.com/zhou-9527/AnaLogical-GCD)
